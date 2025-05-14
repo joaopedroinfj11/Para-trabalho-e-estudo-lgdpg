@@ -1,1 +1,0 @@
-# Para-trabalho-e-estudo-lgdpg
