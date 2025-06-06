@@ -18,6 +18,27 @@ programa {
     escreva("então sua média é:",media_aritmetica)
   }
 }
+
+4º questão 
+programa {
+  funcao inicio() {
+    //declaração de variáveis 
+      real mes1, mes2, mes3, media_aritmetica 
+      //Entrada de dados
+       Escreva("Informe o gasto em janeiro")
+       Leia(mes1)
+       Escreva("Informe o gasto em fevereiro")
+       Leia(mes2)
+       Escreva("Informe o gasto em março")
+       Leia(mes3)
+      //processamento
+          media_aritmetica=(mes1+mes2+mes3)/3
+      //Saída de dados
+       Escreva("a media geral de gasto é: ", Media_aritmetica)
+  }
+}
+
+
 5º questão 
 programa {
   funcao inicio() {
@@ -33,8 +54,8 @@ programa {
    peso_ideal=(K*altura)-B
    //saída de dados
    Escreva("Seu peso ideal deve ser: ", peso_ideal) 
-
-
+  }
+}
 
 
 
