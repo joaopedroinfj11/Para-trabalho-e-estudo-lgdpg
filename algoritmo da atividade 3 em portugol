@@ -18,3 +18,29 @@ programa {
     escreva("então sua média é:",media_aritmetica)
   }
 }
+5º questão 
+programa {
+  funcao inicio() {
+   //declaração de variáveis 
+   real altura, peso_ideal
+   //declaração de constantes 
+   Const real K=72.7
+   Const inteiro B=58
+   //ENTRADA DE DADOS
+   Escreva("Informe seus dados: ")
+   Leia(altura)
+   //processamento
+   peso_ideal=(K*altura)-B
+   //saída de dados
+   Escreva("Seu peso ideal deve ser: ", peso_ideal) 
+
+
+
+
+
+
+
+
+
+
+
