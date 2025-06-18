@@ -1,0 +1,32 @@
+programa {
+  funcao inicio() {
+    //declaração de variáveis
+    inteiro x, y
+    real re1, re2, re3, re4, re5
+    //entrada de dados
+    escreva("valor de x: \n",x)
+    escreva("valor de y: ",y)
+  //processamento
+  re1= (x+y)
+  re2=(x-y)
+  re3 =(x*y)
+  re4=(x/y)
+  re5=(x%y)
+  //saida de dados
+  escreva("soma: ") 
+leia(re1 )
+  escreva("subtração: ") 
+leia(re2)
+  escreva("multiplicação: ")
+leia(re3)
+  escreva("divisão: ")
+leia(re4)
+  escreva("quociente: ") re4)
+  escreva("resto: ")
+leia(re5)
+  
+  
+  
+  
+  }
+}
