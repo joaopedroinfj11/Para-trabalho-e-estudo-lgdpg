@@ -1,0 +1,16 @@
+programa {
+funcao () {
+ //Declaração de variáveis 
+ real volume, raios, altura 
+//Entrada de dados 
+escreva("informe o valor da altura: ")
+leia(altura)
+escreva("informe o valor dos raios: ")
+leia(raios)
+//processamento 
+volume=3.14159*raios*altura
+//saída de dados
+escreva("valor do volume: ")
+leia(volume)
+}
+}
