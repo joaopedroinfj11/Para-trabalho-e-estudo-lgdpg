@@ -1,0 +1,14 @@
+programa {
+funcao () {
+ //Declaração de variáveis 
+ real F, C
+//Entrada de dados 
+escreva("informe a temperatura em celsius: ")
+leia(C)
+//processamento 
+F=(9*C+160)/5
+//saída de dados
+escreva("graus em Fahrenheit: ")
+leia(F)
+}
+}
