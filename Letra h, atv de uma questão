@@ -1,0 +1,16 @@
+programa {
+funcao inicio() {
+    //declaração de variáveis 
+    real re1, re2, re3
+    //declaração de constantes 
+     const real dinheirors=60000, dL=5.51, lBe=1.35, euro=0.86
+     //processamento      
+re1=dinheirors/dL-1745-2350
+re2=re1/lBe-8500
+re3=re2/euro-4500
+     //saída de dados
+     escreva("valor do saldo antes de a ser gasto na viagem de volta: ", re3)
+}
+}
+
+
